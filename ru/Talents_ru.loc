@@ -194,7 +194,7 @@ Talent_Sling_HeavyShot_Name { Сотрясающий выстрел }
 
 Talent_Sling_HeavyShot_Desc { Тяжелый выстрел, наносящий [WeaponDamagePercent] урона и оглушающий противников на [StunTime] секунд. }
 
-учителя { Учитель }
+teachers { Учитель }
 
 talent_mining_desc { Увеличивает доход от поиска руды. }
 

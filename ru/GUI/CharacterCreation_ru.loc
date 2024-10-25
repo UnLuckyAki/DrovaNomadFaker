@@ -2,7 +2,7 @@ EnterName { Введите имя...  }
 
 Body { Тело }
 
-Visual { Внещний вид }
+Visual { Внешний вид }
 
 Souvenir { Памятная вещь }
 
@@ -48,7 +48,7 @@ Souvenir_Health { Кольцо жизни }
 
 Souvenir_Health_Tooltip { Это кольцо пропитано эссенцией жизни. Ваше здоровье увеличивается. }
 
-Souvenir_Thief { Отмыка }
+Souvenir_Thief { Отмычка }
 
 Souvenir_Thief_Tooltip { Фортуна благоволит... ну, тем, кто сам создает свою удачу. }
 

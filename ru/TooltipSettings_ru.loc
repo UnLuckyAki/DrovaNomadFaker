@@ -22,11 +22,11 @@ dexterity { Ловкость }
 
 mind { Разум }
 
-здоровье { Здоровье }
+health { Здоровье }
 
 healing { Восстанавливает [VALUE] вашего максимального здоровья. }
 
-learningpoints { ОУ }
+learningpoints { Оч. Тал. }
 
 talentlearned { Выучено }
 

@@ -24,7 +24,7 @@ Category_Slingshot { Рогатка }
 
 Category_Shield { Щит }
 
-{ Prerequisite { Требование: }
+requirement { Требование: }
 
 Category_Preparation { Подготовка }
 
