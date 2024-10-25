@@ -1,0 +1,25 @@
+SleepBuff { Rested }
+
+SleepBuffDescription { Увеличивает скорость передвижения на [MovementPercent]. }
+
+Poison { Poison }
+
+PoisonDescription { Уменьшает скорость передвижения на [MovementPercent]. }
+
+Bleeding { Кровотечение }
+
+BleedingDescription { Каждую секунду вы теряете здоровье. }
+
+SleepBuff_T2 { Хорошо отдохнувший }
+
+Veil_Name { Blackflame }
+
+Veil_Desc { Вы постоянно получаете урон. }
+
+Intoxicated_Name { Drunk }
+
+Intoxicated_Desc { Все выглядит как-то нечетко... }
+
+NoFood_Name { Пустой желудок }
+
+NoFood_Desc { Съешьте что-нибудь, чтобы заполнить желудок. Если вы насытились, то со временем восстановите утраченное здоровье. }

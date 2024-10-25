@@ -1,0 +1,12 @@
+LevelUp { Уровень повышен! }
+
+NotEnoughFightingStrength { Недостаточно мастерства }
+
+NoAmmoWarning { Нет боеприпасов }
+
+ReloadWarning { Перезарядка }
+
+SpellAlreadyKnown { Вы уже научились этой способности. }
+
+NeedsQuiver { Требуется колчан }
+

@@ -1,0 +1,60 @@
+title_character_segment { Персонаж }
+
+label_character_level { Уровень }
+
+tooltip_character_level { Отображает ваш текущий уровень. Он показывает, насколько силен ваш персонаж. }
+
+tooltip_character_faction { Отображает ваше текущее подданство. }
+
+tooltip_character_skillpoints { Вы можете использовать очки навыков, чтобы повысить уровень способностей или изучить новые таланты у учителей. Каждый новый уровень дает вам <color=#55BD55>четыре</color> очка обучения и <color=#55BD55>пять</color> очков здоровья. }
+
+label_character_skillpoints { Очки обучения }
+
+tooltip_character_xp { Вы будете получать очки опыта, убивая противников или выполняя задания. }
+
+label_attributes_hitpoints { Здоровье }
+
+tooltip_attributes_hitpoints { Когда ваше здоровье падает до нуля, персонаж умрёт. }
+
+tooltip_attributes_stamina { Выносливость используется для блокирования, уклонения и для тяжелых атак. }
+
+label_attributes_stamina { Выносливость }
+
+tooltip_attributes_flow { Фокус используется для способностей. Оно генерируется при нанесении урона и рассеивается со временем или после получения урона. }
+
+label_attributes_flow { Focus }
+
+tooltip_attributes_power { Проворство - это сумма баллов ваших атрибутов, которая служит необходимым условием для владения определенным оружием. }
+
+tooltip_attributes_strength { Сила увеличивает наносимый вами физический урон на [VALUE] }
+
+tooltip_attributes_dexterity { Ловкость увеличивает шанс критического удара на [VALUE]. Каждое критическое попадание вызывает кровотечение у цели и наносит дополнительный урон, в зависимости от типа оружия. }
+
+tooltip_attributes_mind { Разум увеличивает ваш магический урон на [VALUE1] и базовый фокус на [VALUE2]. }
+
+label_attributes_armor { Броня }
+
+tooltip_attributes_armor { Уменьшает входящий физический урон. }
+
+tooltip_attributes_magic_resistance { Снижает входящий магический урон. }
+
+label_attributes_magic_resistance { Сопротивление магии }
+
+title_equipment_segment { Экипировка }
+
+title_directquickbar_segment { Панель быстрого доступа }
+
+faction_none { Нет фракции }
+
+faction_nemeton { Неметон }
+
+faction_ruincamp { Лагерь останков }
+
+title_ammo { Боеприпасы }
+
+totalFIghtingStrength { Всего силы }
+
+baseFightingStrength { Стандартный показатель силы }
+
+baseFightingStrengthDesc { Базовая доблесть - это сумма ваших атрибутов без дополнительных бонусов от снаряжения и считается требованием таланта. }
+

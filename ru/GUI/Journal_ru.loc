@@ -1,0 +1,42 @@
+Entry_Created { Новая запись в журнале }
+
+Entry_Updated { Журнал обновлен }
+
+OthersUpdated { +$JOURNAL:Others$ Miscellaneous }
+
+Tab_Quests_Finished { Завершено }
+
+Tab_Quests_Running { Текущие }
+
+Tab_Letters { Письма }
+
+Group_Bandits { Рейдеры Руины }
+
+Group_Nemeton { Неметон }
+
+Group_RuinCamp { Лагерь остатков }
+
+Group_Tavern { Таверна }
+
+Group_Woodcamp { Лесоруб }
+
+Group_World { Мир }
+
+Group_Unsorted { Неотсортированное }
+
+Group_Magielager { Убежище }
+
+Group_RedTower { Красная башня }
+
+Group_Mine { Шахта }
+
+Group_MainQuest { Главный квест }
+
+Group_Dungeon_Library { Библиотека }
+
+Group_Dungeon_City { Город в Первобытном лесу }
+
+Group_Dungeon_Auwald { Холм в пойменном лесу }
+
+Group_TreasureMaps { Карты сокровищ }
+

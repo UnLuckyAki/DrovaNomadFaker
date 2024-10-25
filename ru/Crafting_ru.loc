@@ -1,0 +1,34 @@
+Workbench { Верстак }
+
+Furnace { Горн }
+
+Fireplace { Костёр }
+
+Personal { Личное }
+
+Recipes { Рецепты }
+
+Title_Panel { Крафт }
+
+Toggle_CraftableOnly { Отображать только рецепты ремесел }
+
+Foldout_Throw { Инструменты }
+
+Foldout_Ammo { Аммуниция }
+
+Foldout_Trinkets { Украшения }
+
+Foldout_Food { Еда }
+
+Foldout_Heal { Исцеление }
+
+Foldout_Unsorted { Неотсортированное  }
+
+Title_CraftingStation { Рабочая область }
+
+Prefix_RequiredWorkbench { Требуется: }
+
+Foldout_Potion { Зелья }
+
+Foldout_Crafting { Обработка }
+
