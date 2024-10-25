@@ -192,7 +192,7 @@ TalkToMombert_95 { Не ты! }
 
 TalkToMombert_96 { Да-да, я знаю. }
 
-TalkToMombert_97 { Больше такого не повторится, Мамберт. }
+TalkToMombert_97 { Больше такого не повторится, Хамберт. }
 
 TalkToMombert_98 { Друиды полагаются на тебя. }
 
@@ -216,7 +216,7 @@ GoToAdwinWithPlayer_107 { Вечный огонь находится здесь.
 
 GoToAdwinWithPlayer_108 { Мирт наблюдает за ним. }
 
-GoToAdwinWithPlayer_109 { Это мастерская Чуннаика. }
+GoToAdwinWithPlayer_109 { Это мастерская Хонека. }
 
 GoToAdwinWithPlayer_110 { На случай, если вам когда-нибудь понадобится оружие. }
 
@@ -226,7 +226,7 @@ GoToAdwinWithoutPlayer_112 { Вечный огонь находится здес
 
 GoToAdwinWithoutPlayer_113 { Мирте наблюдает за ним. }
 
-GoToAdwinWithoutPlayer_114 { Это мастерская Чуннаика. }
+GoToAdwinWithoutPlayer_114 { Это мастерская Хонека. }
 
 GoToAdwinWithoutPlayer_115 { На случай, если вам когда-нибудь понадобится оружие. }
 
