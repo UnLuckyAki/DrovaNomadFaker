@@ -1,0 +1,265 @@
+Control { Управление }
+
+GameMode { Режим игры }
+
+default { Восстановить настройки по умолчанию }
+
+save { Сохранить }
+
+dont_save { Не сохранять }
+
+cancel { Отменить }
+
+keyfield_popup { Назначение клавиш было изменено. Хотите сохранить эту конфигурацию?  }
+
+keyfield_popup_conflict { Эта конфигурация содержит противоречивые привязки и не может быть сохранена. Хотите продолжить без сохранения? }
+
+world { Мир }
+
+category_dialog { Диалоги }
+
+category_music { Музыка }
+
+category_guimenus { Меню интерфейса }
+
+category_shotcuts { Разное }
+
+Label_Volume_Master { Общая громкость }
+
+Label_Volume_Sound { Звуковые эффекты }
+
+Label_Volume_Ambience { Окружающий мир }
+
+Label_Volume_UI { Интерфейс }
+
+Label_Volume_Music { Музыка }
+
+Options { Настройки }
+
+gameplay { Игровой процесс }
+
+interface { Интерфейс }
+
+video { Видео }
+
+audio { Аудио }
+
+Zoom { Масштаб }
+
+ShowPlayerHealth { Отображение шкал здоровья, концентрации и других }
+
+ShowLootFeedback { Когда персонаж подбирает предмет, изучает новые навыки, получает новый уровень или продвигается по заданию, в правой части экрана будет отображаться дополнительная информация. }
+
+ShowQuickbar { Отображение панели быстрого доступа }
+
+ShowBuffs { Отображение бонусов от заклинаний или вещей }
+
+ShowHealthVignette { Покраснение экрана по краям при низком уровне здоровья }
+
+ShowOptions_Disclaimer { Включите все настройки для комфортной игры }
+
+ShowDirectionFeedback { Показывать направление движения }
+
+ShowHealthbars { Отображать здоровье }
+
+ShowStaminaBar { Отображение полоски выносливости и аммуниции }
+
+Title_Gamepad { Контроллер }
+
+Title_KeyBinds { Управление }
+
+Language { Язык }
+
+Toggle_ShowHelp { Показывать подсказки }
+
+AutosaveInterval { Автосохранение }
+
+Toggle_PickUpsToQuickbar { Автоматическое назначение предметов на панели быстрого доступа }
+
+Toggle_PickUpsToQuickbar_Heal { Восстанавливающие здоровье предметы }
+
+Toggle_PickUpsToQuickbar_Traps { Ловушки }
+
+Toggle_AutoDrawWeapon { Автоматически доставать оружие }
+
+Toggle_AutoEquipArrows { Автоматически снаряжать аммуницию }
+
+Dropdown_Resolution { Разрешение }
+
+Toggle_WindowMode { В окне }
+
+Slider_FPS { Частота кадров }
+
+Title_Effects { Эффекты }
+
+Slider_Screenshake { Интенсивность тряски экрана }
+
+Slider_ParticleAmount { Частицы }
+
+Toggle_DustParticles { Частицы пыли }
+
+Toggle_ShaderEffects { Эффекты шейдеров }
+
+Toggle_WindEffects { Частицы от ветра(исправить) }
+
+Toggle_Vibration { Вибрация }
+
+Toggle_AutoAim { Автонаведение }
+
+State_Low { Низкие }
+
+State_Medium { Средние }
+
+State_High { Высокие }
+
+Vsync { Вертикальная синхронизация }
+
+Unlimited { Неограниченно }
+
+Title_Keyboard { Клавиатура }
+
+Option_Generic_Off { Выкл }
+
+Autosave_Min3 { Раз в 3 мин }
+
+Autosave_Min5 { Раз в 5 мин }
+
+Autosave_Min10 { Раз в 10 мин }
+
+Title_FontAndDialog { Настройки диалогового окна }
+
+Toggle_PickUpsToQuickbar_Food { Еда }
+
+Toggle_PickUpsToQuickbar_Throwables { Метательное }
+
+Toggle_PickUpsToQuickbar_Torches { Факел }
+
+Dropdown_FontSize { Размер шрифта }
+
+Dropdown_DialogSpeed { Скорость отображения текста }
+
+FontSize_Small { Стандартный }
+
+FontSize_Medium { Крупный }
+
+FontSize_Big { Огромный }
+
+DialogSpeed_Instant { Сразу }
+
+DialogSpeed_Fast { Быстро }
+
+DialogSpeed_Slow { Стандартно }
+
+Toggle_GroundFog { Туман }
+
+Toggle_Rain { Дождь }
+
+Toggle_Clouds { Облака }
+
+Toggle_TextSounds { Звук отображения текста }
+
+Toggle_NPCDialogSounds { Звуки персонажей }
+
+Toggle_ShowCompleteHUD { Полное отображение интерфейса(исправить) }
+
+Toggle_CharacterFeedback { Display character feedback(исправить) }
+
+ShowDirectionFeedback_Enemies { Показывать направление движения }
+
+ShowPoiseBar_Enemies { Показывать стойку соперника }
+
+ShowMunition { Показывать аммуницию }
+
+Toggle_SmartQuickbar { Дополнительные настройки быстрого доступа }
+
+Toggle_ShowItemChanges { Отображать полученные/потерянные предметы }
+
+Toggle_ShowDiaryChanges { Отображать обновления в журнале }
+
+Toggle_ShowNewSpells { Отображать недавно изученные заклинания, рецепты и таланты }
+
+Toggle_ShowCharacterImprovements { Отображать развитие персонажа }
+
+Toggle_ChangeSticks { Swap sticks(исправить) }
+
+Toggle_ChangeDirectionWithSticks { Swap Direction Pad and Standard Action Buttons }
+
+Toggle_ChangeTriggers { Swap Bumpers }
+
+Keybinding_Preset { Стандартные }
+
+KeyPreset_LeftHanded { Настройки для левшей(возможно) }
+
+Toggle_ScrollAbilities { Переключение активной способности с помощью колесика мыши }
+
+Parent_BasicHudElements { Стандартные настройки интерфейса }
+
+Parent_CharacterFeedback { Взаимодействие с персонажем }
+
+Title_ScreenHUD { Элементы интерфейса на экране }
+
+Title_PlayerHUD { Элементы интерфейса персонажа }
+
+Title_EnemyHUD { Элементы интерфейса NPC }
+
+ShowNPCNames { Отображать имена }
+
+KeyPresent_Standard { Стандратный }
+
+KeyPresent_Azerty { Azerty }
+
+Title_General { Общие настройки }
+
+Description_SmartQuickbar { Запоминает последний предмет, который был назначен в слот панели быстрого доступа, и назначает его снова при получении. }
+
+Toggle_CameraMode { Выравнивание камеры по движению курсора }
+
+Description_CameraMode { Камера всегда будет двигаться туда, куда направлен курсор. Если этот параметр выключен, камера будет выравниваться по направлению движения }
+
+Toggle_FilterSellItems { Автоматически помечать новые предметы как хлам }
+
+Description_FilterSellItems { Автоматически помечает новые предметы как хлам для продажи, в результате чего предмет будет появляться в инвентаре только при показе хлама }
+
+Dropdown_DisplayMode { Режим экрана }
+
+DisplayMode_Windowed { Оконный }
+
+DisplayMode_Borderless { Оконный без рамок }
+
+DisplayMode_Fullscreen { Во весь экран }
+
+Zoom_Near { Маленький }
+
+Zoom_Far { Большой }
+
+Toggle_PickUpsToQuickbar_Potions { Зелья }
+
+Description_AutoDrawWeapon { Персонаж автоматически достает свое оружие, когда уклоняется или использует заклинание. }
+
+Title_WeatherEffects { Погодные эффекты }
+
+Toggle_WindMovements { Движение ветра }
+
+Toggle_Quickcast { Быстрое использование способностей }
+
+AutoDrawWeapon_CombatAbilitiesOnly { Только при атаке способностями }
+
+Description_Quickcast { Моментальное использование способности без сетки прицеливания }
+
+Description_LookDirection { Во время боя стрелка у ног персонажа указывает направление, в котором он двигается. }
+
+Description_LookDIrection_NPCs { Во время боя стрелка у ног врага указывает направление, в котором он двигается. }
+
+popup_reset { Сбросить }
+
+FontSize_Preview { Предпросмотр }
+
+MapMarker_Player_Toggle { Показывать местоположение на карте } 
+
+PlayerDmgReceive { Урон противников }
+
+PlayerDmgOutput { Дополнительный урон персонажа }
+
+Toggle_MiniGame { Мини-игры }
+
+MouseLock { Закрепить курсор к окну }

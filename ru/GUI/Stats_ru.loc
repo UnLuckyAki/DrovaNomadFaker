@@ -12,11 +12,11 @@ Name_MagicResist { Магическое сопротивление }
 
 Learned { Изучено }
 
-LearnPoint { Очко знания }
+LearnPoint { Очко Таланта }
 
-LearnPoints { Очки знаний }
+LearnPoints { Очки Талантов }
 
 MaximumHealth { Максимальное здоровье }
 
-Name_Orientationpunkt { Base Focus }
+Name_Orientationpunkt { Базовая концентрация }
 

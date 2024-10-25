@@ -8,11 +8,11 @@ header_magicalAbilities { Заклинания }
 
 header_memory { Память }
 
-Orientationpoint_Label { Базовый фокус: }
+Orientationpoint_Label { азовая концентрация: }
 
-Orientationpointtooltip_Header { Базовый фокус }
+Orientationpointtooltip_Header { Базовая концентрация }
 
-Orientationpointtooltip_Description { Со временем фокус будет восстанавливаться до этой точки. }
+Orientationpointtooltip_Description { Со временем Концентрация будет восстанавливаться до этой точки. }
 
 MaxLeben { Макс. Здоровье }
 

@@ -1,6 +1,6 @@
 Level { Уровень: }
 
-LearningPoints { Очки умений: }
+LearningPoints { Очки талантов: }
 
 Category_Sword { Меч }
 
@@ -18,7 +18,7 @@ Category_Crafting { Ремесло }
 
 Category_Hunting { Охота }
 
-CombatStrength { Проворство }
+CombatStrength { Мастерство }
 
 Category_Slingshot { Рогатка }
 

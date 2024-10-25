@@ -4,7 +4,7 @@ damage { Урон }
 
 attack  { Урон атаки }
 
-flowgain { Фокус }
+flowgain { Концентрация }
 
 physicalblock { Физический блок }
 
@@ -14,7 +14,7 @@ physicalresistance { Броня }
 
 magicalresistance { Магическое сопротивление }
 
-flowcosts { Стоимость Фокуса }
+flowcosts { Стоимость Концентрации }
 
 strength { Сила }
 
@@ -46,7 +46,7 @@ buffAdditionalDescription { (Новая еда заменяет эффект с�
 
 maxHealth { Максимальное здоровье [VALUE] }
 
-flowGain { Фокус [VALUE] }
+flowGain { Концентрация [VALUE] }
 
 magicDamage { Магический урон [VALUE] }
 
@@ -62,7 +62,7 @@ magicResistance { Сопротивление магии [VALUE] }
 
 staminaReg { Регенерация выносливости [VALUE] }
 
-flowReg { Восстановление фокуса [VALUE] }
+flowReg { Восстановление концентрации [VALUE] }
 
 armor { Броня [VALUE] }
 
@@ -92,13 +92,13 @@ critchance { Шанс крита }
 
 critchance_Value { Шанс крита [VALUE] }
 
-orientationpoint { Базовый фокус [VALUE] }
+orientationpoint { Базовая концентрация [VALUE] }
 
 stat_change_str { +$STATCHANGE:PhysDmg$ физ. урон }
 
 stat_change_dex { +$STATCHANGE:CritChance$ crit. }
 
-stat_change_mind { +$STATCHANGE:MagDmg$ маг. урон + $STATCHANGE:Focus$ базовый фокус }
+stat_change_mind { +$STATCHANGE:MagDmg$ маг. урон + $STATCHANGE:Focus$ базовой концентрации }
 
 helmet_cosmetics { (Шлемы носят чисто косметический характер и не влияют на персонажа) }
 
@@ -114,7 +114,7 @@ drug_description { Притупляет чувства }
 
 LearnSpell { Обучает способностям оружия }
 
-flowText { Генерирует [HealValue] фокуса в течение [StackTime] секунд. }
+flowText { Генерирует [HealValue] концентрации в течение [StackTime] секунд. }
 
 needrunestone { Нужен рунный камень }
 

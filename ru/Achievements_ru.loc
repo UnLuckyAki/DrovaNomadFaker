@@ -132,7 +132,7 @@ Achievement_FedMikesch10Fish_desc { Накормите Микеша 10 рыба�
 
 Achievement_InteractedWithAllUniqueCritters_name { Шептун животных }
 
-Achievement_InteractedWithAllUniqueCritters_desc { Общайтесь с каждым уникальным животным в Дровах. }
+Achievement_InteractedWithAllUniqueCritters_desc { Общайтесь с каждым уникальным животным в Дрова. }
 
 Achievement_LearnedFromBady_name { Покорил арену }
 
@@ -140,7 +140,7 @@ Achievement_LearnedFromBady_desc { Победить Бади в честном �
 
 Achievement_TookAllDrugs_name { Не трать, не хочу }
 
-Achievement_TookAllDrugs_desc { Получите кайф от всех наркотиков в Дровах. }
+Achievement_TookAllDrugs_desc { Получите кайф от всех наркотиков в Дрова. }
 
 Achievement_GotRelicFromRuinenraeuber_name { Не на виду, но не на уме }
 
@@ -196,4 +196,4 @@ Achievement_HardcoreMode_desc { Завершите игру, установив 
 
 Achievement_ClassicMode_name { Стандарт }
 
-Achievement_ClassicMode_desc { Завершите игру в Дровах в классическом режиме. }
+Achievement_ClassicMode_desc { Завершите игру в Дрова в классическом режиме. }

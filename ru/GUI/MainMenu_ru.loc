@@ -4,7 +4,7 @@ LoadGame { Загрузить игру }
 
 Continue { Продолжить }
 
-Options { Опции }
+Options { Настройки }
 
 QuitGame { Выйти }
 
@@ -12,4 +12,4 @@ StartGame { Начать }
 
 Back { Назад }
 
-Credits { Credits }
+Credits { Авторы }
