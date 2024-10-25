@@ -1,8 +1,7 @@
-Plh_0 { *The ground here was trampled on, with several footprints visible. It looks like two people fought here.* }
+Plh_0 { *Земля здесь была истоптана, видно несколько отпечатков ног. Похоже, здесь сражались два человека* }
 
-Plh_1 { (examine tracks more closely) }
+Plh_1 { (осмотреть следы внимательнее) }
 
-Plh_2 { (leave) }
+Plh_2 { (уйти) }
 
-Plh_3 { *Two people squared off, then fought. There appear to be two different sets of footprints.* }
-
+Plh_3 { *Два человека сцепились, а затем подрались. Похоже, здесь два разных набора следов.* }

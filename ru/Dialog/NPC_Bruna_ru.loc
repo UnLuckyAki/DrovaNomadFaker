@@ -1,139 +1,139 @@
-Plh_5 {I have to take care of the food. We can talk afterward. }
+Plh_5 {Я должен позаботиться о еде. Мы можем поговорить после. }
 
-Plh_15 { How are you? { Are you hurt badly? }
+Plh_15 {Как ты? { Ты сильно ранен? }
 
-Plh_69 { Hey, Bruna - what are you doing here? }
+Plh_69 { Эй, Бруна - что ты здесь делаешь? }
 
-Plh_50 { We need to get out. Now! }
+Plh_50 { Нам нужно выбираться. Немедленно! }
 
-Plh_112 { Hey, Bruna! How are you today? }
+Plh_112 { Привет, Бруна! Как ты сегодня? }
 
-Plh_114 { Very nice of you to ask $GVAR:EVars_Player.Name$ ... I'm feeling good again, more or less. Still a little sore when I move, but I'm sturdier than I look. }
+Plh_114 { Очень мило с твоей стороны спросить $GVAR:EVars_Player.Name$ ... Я снова чувствую себя хорошо, более или менее. Все еще немного побаливает при движении, но я крепче, чем кажусь. }
 
 Plh_115 { Ay, ah my rib ... }
 
-Plh_116 { Walk slowly. Your body needs time to recover. }
+Plh_116 { Идите медленно. Вашему телу нужно время, чтобы восстановиться. }
 
-Plh_117 { You don't look so tough to me. }
+Plh_117 { По-моему, вы не выглядите таким уж крепким. }
 
-Plh_118 { You're right... } }
+Plh_118 { Вы правы... } }
 
-Plh_119 { I'm going to get some rest. And you'd better get to work - maybe today you'll actually find what they're looking for. }
+Plh_119 { Я собираюсь немного отдохнуть. А вам лучше заняться работой - может быть, сегодня вы действительно найдете то, что они ищут. }
 
-Plh_14 { { *sigh* Ah... Я... I'm fine. Nothing's broken - I think. Please don't worry. }
+Plh_14 { { *вздох* А... Я... Я в порядке. Ничего не сломалось - я думаю. Пожалуйста, не волнуйтесь. }
 
-Plh_16 { I'm sorry I couldn't make it sooner. }
+Plh_16 { Прости, что не смог прийти раньше. }
 
-Plh_18 { I'm going to get back at Lanzo for this... }
+Plh_18 { Я собираюсь отомстить Ланзо за это... }
 
-Plh_26 { *smiles* It's not your fault... } }
+Plh_26 { *улыбается* Это не твоя вина... } }
 
-Plh_27 { I... I'd rather do it myself... } }
+Plh_27 { Я... лучше я сам... } }
 
-Plh_70 { *smiles* Good to see you. Things are different now... I've gone to Nemeton - I'm free. And I should be happy, but... } }
+Plh_70 { *улыбается* Рад тебя видеть. Теперь все по-другому... Я отправился в Неметон - я свободен. И я должен быть счастлив, но... } }
 
-Plh_72 { You and Dalin... Are you working together now? }
+Plh_72 { Вы с Далином... Вы теперь работаете вместе? }
 
-Plh_73 { Anything's better than being locked in a cave. }
+Plh_73 { Все лучше, чем быть запертым в пещере. }
 
-Plh_74 { Dalin said we could try our luck in Nemeton. Why not...? }
+Plh_74 {Далин сказал, что мы можем попытать счастья в Неметоне. Почему бы и нет...? }
 
-Plh_75 {That's right. I need to come to my senses too - it's been an ordeal. Thank you for everything. }
+Plh_75 {Вот именно. Мне тоже нужно прийти в себя - это было тяжкое испытание. Спасибо за все. }
 
-Plh_29 { Why don't you go to the Pit like everyone else? }
+Plh_29 { Почему бы тебе не отправиться в Яму, как все остальные? }
 
-Plh_34 { How did you end up here? }
+Plh_34 { Как ты здесь оказался? }
 
-Plh_30 { They make me worry about provisions, even though I can handle a pickaxe much better than some of these weaklings. But at least it's not dangerous here. }
+Plh_30 { Они заставляют меня беспокоиться о провизии, хотя я умею обращаться с киркой гораздо лучше, чем некоторые из этих слабаков. Но, по крайней мере, здесь не опасно. }
 
-Plh_120 { If you need provisions too, come see me after your shift. }
+Plh_120 { Если тебе тоже нужна провизия, приходи ко мне после смены. }
 
-Plh_46 { { *sighs* It's just fate. }
+Plh_46 { { *вздыхает* Это просто судьба. }
 
-Plh_47 { What fate? }
+Plh_47 { Какая судьба? }
 
-Plh_36 { I wandered through the Red Swamp with my brother Liam. We had no food left, and there were blood flies everywhere. And Liam, well... }
+Plh_36 { Я бродил по Красным болотам со своим братом Лиамом. У нас не осталось еды, и повсюду были кровавые мухи. А Лиам, ну... }
 
-Plh_37 { We were defending ourselves, and Liam was putting his all into it. Then we came across these people. They helped us. gave us food. }
+Plh_37 { Мы защищались, и Лиам вкладывал в это все свои силы. Потом мы наткнулись на этих людей. Они помогли нам. Дали нам еды. }
 
-Plh_38 { We thought we were safe... } }
+Plh_38 { Мы думали, что мы в безопасности... } }
 
-Plh_40 { They didn't seem trustworthy. }
+Plh_40 { Они не казались надежными. }
 
-Plh_41 { It was a mistake. }
+Plh_41 { Это была ошибка. }
 
-Plh_42 { We were on the brink of ruin, and we had no choice... } }
+Plh_42 { Мы были на грани разорения, и у нас не было выбора... } }
 
-Plh_107 { They wanted to drag us into that cave. I was exhausted and couldn't stand on my feet anymore. Then Liam resisted with his last strength, screaming that he couldn't stand... } }
+Plh_107 { Они хотели затащить нас в эту пещеру. Я обессилела и уже не могла стоять на ногах. Тогда Лиам сопротивлялся из последних сил, кричал, что не может стоять... } }
 
-Plh_43 { He held on, but there were too many of them... } }
+Plh_43 { Он держался, но их было слишком много... } }
 
-Plh_108 { He was such a good man. Always looking out for everyone. He protected the weak... } }
+Plh_108 { Он был таким хорошим человеком. Всегда заботился обо всех. Он защищал слабых... } }
 
-Plh_121 { I'm doing all this for him. His strength should not be lost to this world. }
+Plh_121 { Я делаю все это ради него. Его сила не должна быть потеряна для этого мира. }
 
-Plh_44 { Yes. But it was too late... } }
+Plh_44 { Да. Но было слишком поздно... } }
 
-Plh_7 { *blinks* I wish for nothing more, but without weapons, we are powerless... } }
+Plh_7 { *Мигает* Я не желаю ничего большего, но без оружия мы бессильны... } }
 
-Plh_52 { There are some weapons in the storeroom, but Mali always hangs out there. }
+Plh_52 { В кладовой есть немного оружия, но Мали всегда ошивается там. }
 
-Plh_55 { Maybe we can do something about it. Tell Mali that I've gotten worse. She took care of me yesterday, so she'll probably do it again.... {\pos(192,210)}and she'll be distracted. }
+Plh_55 { Может быть, мы сможем что-нибудь сделать. Скажи Мали, что мне стало хуже. Она позаботилась обо мне вчера, так что, возможно, сделает это снова.... {\pos(192,210)}и она отвлечется. }
 
-Plh_58 { But you'll still have to open the door somehow... { I don't have a key. }
+Plh_58 {Но тебе все равно придется как-то открыть дверь... { У меня нет ключа. }
 
-Plh_122 { I just want to get out of here... } }
+Plh_122 { Я просто хочу выбраться отсюда... } }
 
-Plh_12 { So you, uh. took care of the food. }
+Plh_12 { Значит, вы позаботились о еде. }
 
-Plh_13 { Thank you... }
+Plh_13 { Спасибо... }
 
-Plh_19 { Here... This is your portion for today. }
+Plh_19 { Вот... Это ваша порция на сегодня. }
 
 Plh_99 { ... }
 
-Plh_20 { This is the second day. Looks like you're starting to get the hang of it, huh? You better not go too far away from Hasso. It could be dangerous in those ruins... { ... }
+Plh_20 { Это второй день. Похоже, ты начинаешь понимать, что к чему, да? Тебе лучше не уходить далеко от Хассо. В этих руинах может быть опасно... { ... }
 
-Plh_68 { *deep breaths* *coughs* }
+Plh_68 { *глубокий вдох* *кашель* }
 
-Plh_110 { { What's up, Bruna? }
+Plh_110 { { Как дела, Бруна? }
 
-Plh_111 { Never better. Maybe a little sore, but it's worth it - being free again. I need some time to myself. Thanks for everything, $GVAR:EVars_Player.Name$. }
+Plh_111 { Лучше не бывает. Может, немного побаливает, но это того стоит - снова быть свободной. Мне нужно немного времени для себя. Спасибо за все, $GVAR:EVars_Player.Name$. }
 
-Plh_80 { Lanzo, what am I supposed to cook if you don't bring anything? A stew of rocks and moss? }
+Plh_80 { Ланзо, что я должен приготовить, если ты ничего не принесешь? Рагу из камней и мха? }
 
-Plh_81 { If it filled my stomach, I'd even polish it off. But their stomachs can't hold anything. $GVAR:EVars_Player.Name$ is going to pick some tasty mushrooms today. You might even be able to get your hands on some digpig meat. }
+Plh_81 { Если бы оно заполнило мой желудок, я бы даже отполировал его. Но их желудки ничего не вмещают. $GVAR:EVars_Player.Name$ собирается сегодня собирать вкусные грибы. Возможно, вам даже удастся заполучить немного мяса дигпига. }
 
-Plh_106 { I hope you don't faint. Otherwise, we'll have to replenish our supplies. And that's something no one wants to do. We certainly don't want that. }
+Plh_106 { Надеюсь, вы не упадете в обморок. Иначе нам придется пополнять запасы. А этого никто не хочет делать. Мы точно этого не хотим. }
 
-Plh_82 { Picking mushrooms is dangerous. One of you has to do it - we have no armor or weapons! }
+Plh_82 { Собирать грибы опасно. Один из вас должен это делать - у нас нет ни доспехов, ни оружия! }
 
-Plh_83 { Careful, Bruna. Better keep your advice to yourself. $GVAR:EVars_Player.Name$ can handle it. If not... no problem. }
+Plh_83 { Осторожно, Бруна. Лучше держи свой совет при себе. $GVAR:EVars_Player.Name$ может справиться с этим. Если нет... нет проблем. }
 
-Plh_84 { Damn bastard... I hate him... { He wants us to suffer! }
+Plh_84 { Проклятый ублюдок... Я ненавижу его... { Он хочет, чтобы мы страдали! }
 
-Plh_85 { It's dangerous out there, so watch yourselves. }
+Plh_85 { Там опасно, так что будьте осторожны. }
 
-Plh_87 { I can handle it, don't worry. }
+Plh_87 { Я справлюсь, не волнуйся. }
 
-Plh_88 { I'm a little scared now. }
+Plh_88 { Теперь мне немного страшно. }
 
-Plh_86 { The last man sent there said that too - right before he vanished into thin air. }
+Plh_86 { Последний посланный туда человек тоже так говорил - прямо перед тем, как раствориться в воздухе. }
 
-Plh_90 { Wait, I've got something here that Lanzo didn't find... } }
+Plh_90 { Погодите, у меня тут есть кое-что, чего не нашел Ланзо... } }
 
-Plh_89 { Take this with you. It might save your ass if you get in a tight spot. }
+Plh_89 { Возьми это с собой. Это может спасти твою задницу, если ты попадешь в затруднительное положение. }
 
-Plh_93 { Let's hope I don't need it... } }
+Plh_93 { Будем надеяться, что он мне не понадобится... } }
 
-Plh_92 { And what exactly am I supposed to get for you? }
+Plh_92 { И что именно я должен получить для тебя? }
 
-Plh_94 { I hope so too... } }
+Plh_94 { Я тоже на это надеюсь... } }
 
-Plh_95 { Bring me $GVAR:BanditMineBrutus_Day03.CountMushrooms$ shadeshrooms and $GVAR:BanditMineBrutus_Day03.CountCaveMushrooms$ caveshrooms. This should be enough for everyone. }
+Plh_95 { Принесите мне $GVAR:BanditMineBrutus_Day03.CountMushrooms$ shadeshrooms и $GVAR:BanditMineBrutus_Day03.CountCaveMushrooms$ caveshrooms. Этого должно хватить на всех. }
 
-Plh_96 { Meat would be nice too, but not worth the risk. Just come back in one piece. }
+Plh_96 { Мясо тоже было бы неплохо, но не стоит рисковать. Просто возвращайтесь целыми и невредимыми. }
 
-Plh_97 { Just head to Colina's place. You'll find her when you go south of the dormitories. She's on guard. }
+Plh_97 { Просто отправляйтесь к Колине. Вы найдете ее, когда пойдете на юг от общежитий. Она на страже. }
 
-Plh_91 { Let me give you a word of advice: take only as much as we need and then come straight back. No unnecessary risk. }
+Plh_91 { Позвольте дать вам совет: возьмите только столько, сколько нам нужно, а потом сразу возвращайтесь. Без лишнего риска. }
